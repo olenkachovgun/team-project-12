@@ -57,8 +57,6 @@ animations and excellent performance.
 - npm or yarn package manager
 - Git
 
----
-
 ### Installation
 
 1. **Clone the repository**
@@ -101,7 +99,6 @@ animations and excellent performance.
    npm run deploy
    ```
 
----
 
 ## 🎨 Design Features
 
