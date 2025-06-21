@@ -1,11 +1,11 @@
 # ⌚ WatchCharm — Responsive Multi-Page Layout
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Site-blue?style=for-the-badge)](https://olenkachovgun.github.io/watchcharm/)
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/olenkachovgun/watchcharm)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Site-blue?style=for-the-badge)](https://olenkachovgun.github.io/team-project-12/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/olenkachuchun/team-project-12)
 
-A modern, responsive website for a luxury watch store built with HTML5, CSS3 and
-JavaScript. Features a beautiful design optimized for all devices with smooth
-animations and excellent performance.
+A modern, responsive website for a luxury watch store built with HTML5, CSS3,
+and JavaScript. Features a beautiful design optimized for all devices with
+smooth animations and excellent performance.
 
 ## 🎯 Project Goals
 
@@ -57,8 +57,6 @@ animations and excellent performance.
 - npm or yarn package manager
 - Git
 
----
-
 ### Installation
 
 1. **Clone the repository**
@@ -101,7 +99,26 @@ animations and excellent performance.
    npm run deploy
    ```
 
----
+## 📁 Project Structure
+
+```
+watchcharm/
+├── src/
+│   ├── css/           # Stylesheets
+│   │   ├── base.css   # Base styles and variables
+│   │   ├── reset.css  # CSS reset
+│   │   └── *.css      # Component-specific styles
+│   ├── img/           # Images and assets
+│   │   ├── catalog/   # Product images
+│   │   ├── hero/      # Hero section images
+│   │   └── icons.svg  # SVG sprite
+│   ├── js/            # JavaScript modules
+│   ├── partials/      # HTML components
+│   └── index.html     # Main HTML file
+├── public/            # Static assets
+├── package.json       # Dependencies and scripts
+└── vite.config.js     # Vite configuration
+```
 
 ## 🎨 Design Features
 
@@ -128,7 +145,45 @@ animations and excellent performance.
 - **Tablet**: 768px - 1279px
 - **Desktop**: ≥ 1280px
 
----
+## 🔧 Development Scripts
+
+| Command           | Description              |
+| ----------------- | ------------------------ |
+| `npm run dev`     | Start development server |
+| `npm run build`   | Build for production     |
+| `npm run preview` | Preview production build |
+| `npm run deploy`  | Deploy to GitHub Pages   |
+
+## 🌐 Browser Support
+
+- Chrome (latest)
+- Firefox (latest)
+- Safari (latest)
+- Edge (latest)
+- Mobile browsers (iOS Safari, Chrome Mobile)
+
+## 📊 Performance
+
+The project is optimized for performance with:
+
+- **Lighthouse Score**: ≥70 on all metrics
+- **Image Optimization**: WebP format with fallbacks
+- **Font Loading**: Optimized font loading strategy
+- **Code Splitting**: Efficient resource loading
+- **Minification**: Compressed CSS and JavaScript
+
+## 🤝 Contributing
+
+1. Fork the repository
+2. Create a feature branch (`git checkout -b feature/amazing-feature`)
+3. Commit your changes (`git commit -m 'Add amazing feature'`)
+4. Push to the branch (`git push origin feature/amazing-feature`)
+5. Open a Pull Request
+
+## 📄 License
+
+This project is licensed under the ISC License - see the [LICENSE](LICENSE) file
+for details.
 
 ## 👥 Team
 
