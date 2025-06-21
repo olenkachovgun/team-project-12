@@ -20,7 +20,7 @@
 
 ### 1. Clone the repository
 ```Bash
-git clone https://github.com/<org-or-user>/team-project-12.git
+git clone git@github.com:olenkachovgun/watchcharm.git
 cd team-project-12
 ```
 ### 2. Install dependencies
