@@ -1,5 +1,5 @@
-### ⌚ Watchcharm — Responsive Multi-Page Layout
-View Demo • [GitHub Pages]
+### ⌚ [Watchcharm — Responsive Multi-Page Layout](https://olenkachovgun.github.io/team-project-12/)
+View Demo • [GitHub Pages](https://github.com/olenkachovgun/team-project-12)
 
 ### Goal
 - Practice teamwork with Git/GitHub and the Vite bundler.
@@ -28,8 +28,14 @@ cd team-project-12
 npm i
 ```
 # 3. Development mode (Vite)
+```Bash
 npm run dev      # available at http://localhost:5173
+```
 # 4. Build for production
+```Bash
 npm run build    # results in /dist
+```
 # 5. Deploy to GitHub Pages
+```Bash
 npm run deploy
+```
