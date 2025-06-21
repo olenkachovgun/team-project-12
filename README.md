@@ -129,7 +129,7 @@ animations and excellent performance.
 
 ## 👥 Team
 
-**Team Project Group 12** - A collaborative effort to create a modern,
+**Team Project Group 12 GoIT** - A collaborative effort to create a modern,
 responsive website for WatchCharm.
 
 ---
