@@ -1,5 +1,5 @@
 # ⌚ [Watchcharm — Responsive Multi-Page Layout](https://olenkachovgun.github.io/team-project-12/)
-View Demo • [GitHub Pages](https://github.com/olenkachovgun/team-project-12)
+ • [GitHub Pages](https://github.com/olenkachovgun/team-project-12)
 
 ## Goal
 - Practice teamwork with Git/GitHub and the Vite bundler.
